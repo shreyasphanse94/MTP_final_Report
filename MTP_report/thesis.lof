@@ -1,0 +1,17 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Techniques applied for song similarity match.\relax }}{3}{figure.caption.7}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Snapshot taken from \textit {saavn.com} showing various classified genres.\relax }}{7}{figure.caption.8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Similarity matrix\relax }}{10}{figure.caption.9}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Process of song summarization at smaller level.\relax }}{11}{figure.caption.10}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Process of song summarization at broader level.\relax }}{11}{figure.caption.11}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces A sample model based on Shilfrin's work\relax }}{20}{figure.caption.13}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Illustration of match in RLCS.\relax }}{22}{figure.caption.15}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces A sample histogram of pitch of all songs combined.\relax }}{30}{figure.caption.17}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces A simplified process showing classification using lyrics.\relax }}{30}{figure.caption.18}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Elbow analysis for the choice of number of mixtures for early recommendation.\relax }}{38}{figure.caption.25}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces A sample mixture of Gaussians\relax }}{44}{figure.caption.27}

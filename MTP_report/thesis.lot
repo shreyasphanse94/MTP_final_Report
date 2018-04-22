@@ -1,0 +1,15 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Performance of various models for genre classification task.\relax }}{13}{table.caption.12}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{\ignorespaces Performance of various techniques with direct song to song match.\relax }}{23}{table.caption.16}
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Performance of GMM and HMM on raw MFCC features\relax }}{34}{table.caption.19}
+\contentsline {table}{\numberline {4.2}{\ignorespaces Performance of GMM and SVM on TF-IDF features of lyrics.\relax }}{35}{table.caption.20}
+\contentsline {table}{\numberline {4.3}{\ignorespaces Performance of GMM on summarized MFCC features\relax }}{35}{table.caption.21}
+\contentsline {table}{\numberline {4.4}{\ignorespaces Performance of HMM on tonic normalized pitch. \relax }}{36}{table.caption.22}
+\contentsline {table}{\numberline {4.5}{\ignorespaces Performance on three users along with fusion of scores.\relax }}{37}{table.caption.23}
+\contentsline {table}{\numberline {4.6}{\ignorespaces Performance on three users having less number of songs for training.\relax }}{37}{table.caption.24}
+\contentsline {table}{\numberline {4.7}{\ignorespaces Performance of HMM with pitch with varying number of states for three different users.\relax }}{38}{table.caption.26}
+\addvspace {10\p@ }
+\addvspace {10\p@ }

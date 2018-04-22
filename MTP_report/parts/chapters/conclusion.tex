@@ -1,0 +1,6 @@
+\chapter{CONCLUSION AND FUTURE WORK}
+\label{chap:concl}
+
+The parallel implementation of subgraph isomorphism outperforms the sequential implementation with the increase in size of data graph. As observed from the experiment, the parallel algorithm did not perform very well on small graphs like Hamsterster friendship and Jazz musicians. This is because the number of candidates and hence the number of threads launched were fewer. However, the parallel algorithm did perform well in larger, especially sparse datasets such as Chicago Transportation and the US power grid.
+
+In future, further optimizations can be made to the parallel implementation such as load balancing between threads, to improve the performance even further. More complex heuristics can be developed in order to reduce the number of redundant matches that occur due to rotation and flipping of the same graph.
